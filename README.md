@@ -24,5 +24,5 @@ You can play the game here: [Flappy Bird Game](https://bvd7l.github.io/FlappyBir
 
 ## Installation
 To run this game locally, simply clone the repository and open the index.html file in your browser:
-git clone https://github.com/bvd7l/FlappyBird.git
-cd FlappyBird
+```git clone https://github.com/bvd7l/FlappyBird.git
+cd FlappyBird ```
